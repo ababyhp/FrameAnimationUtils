@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="xplane">
+        <item>@drawable/s1</item>
+        <item>@drawable/s2</item>
+        <item>@drawable/s3</item>
+        <item>@drawable/s4</item>
+        <item>@drawable/s5</item>
+        <item>@drawable/s6</item>
+        <item>@drawable/s7</item>
+        <item>@drawable/s8</item>
+        <item>@drawable/s9</item>
+        <item>@drawable/s10</item>
+        <item>@drawable/s11</item>
+        <item>@drawable/s12</item>
+    </array>
+</resources>
